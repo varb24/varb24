@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @varb24
-- 👀 I’m interested in ... Learning coding, music, games, and parks.
-- 🌱 I’m currently learning ... java, python, how to make friends.
-- 💞️ I’m looking to collaborate on ... 
+- 👋 Hi, I’m @varb24, i'm a Computer Science students trying to become a skilled programmer.
+- 👀 I’m interested in creating useful programming projects.
+- 🌱 I’m currently learning about graph problems, dynamic programming, systems programming.
 - 📫 How to reach me ... email @ bahamut246@gmail.com
 
 <!---
