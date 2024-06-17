@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @varb24, i'm a Computer Science students trying to become a skilled programmer.
+- 👋 Hi, I’m Ian De Leon, i'm a Computer Science students trying to become a skilled programmer.
 - 👀 I’m interested in creating useful programming projects.
 - 🌱 I’m currently learning about graph problems, dynamic programming, systems programming.
 - 📫 How to reach me ... email @ bahamut246@gmail.com
